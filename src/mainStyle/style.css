@@ -1,0 +1,25 @@
+
+.windows__img img, .card__img img{
+  width: 100%;
+  height: 100%;
+}
+
+.card__img{
+  border:solid 1px black;
+  margin-top: ;
+  max-width:100vw;
+}
+
+.title{
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.849);
+}
+
+.red{
+  color: red;
+}
+
+.react-player{
+  width: 320px !important;
+  height: 240px !important;
+
+}
